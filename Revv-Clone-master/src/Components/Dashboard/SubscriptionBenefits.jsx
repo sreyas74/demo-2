@@ -5,6 +5,11 @@ function SubscriptionBenefits() {
   return (
     <div className={styles.Subscriptions}>
       <h4>Subscription Benefits</h4>
+
+      <h4>Subscription Benefits</h4>
+      <h4>Subscription Benefits</h4>
+      <h4>Subscription Benefits</h4>
+      <h4>Subscription Benefits</h4>
       <div className={styles.Subscriptions__Icons}>
         <div>
           <img
